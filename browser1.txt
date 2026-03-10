@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title> Browser </title>
+
+<style type="text/css">
+.family {font-family: New Comics San;}
+.size {font-size:15px;}
+.weight {font-weight:bold;}
+.style {font-style:italic;}
+.variant {font-variant:small-caps;}
+</style>
+</head>
+<body>
+<h1> Font Properties </h1>
+<p class="family"> Example of use of font family </p>
+<p class="size"> Example of use of font size </p>
+<p class="weight"> Example of use of font weight </p>
+<p class="style"> Example of use of font style </p>
+<p class="variant"> Example of font variant </p>
+</body>
+</html>
