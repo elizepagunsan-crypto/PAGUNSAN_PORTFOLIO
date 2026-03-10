@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4TH QUARTER</title>
+    <link rel="stylesheet" href="port21.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title"> 
+        <a href="index.html">4th Quarter Homepage &#9829;</a> 
+    </p>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button class="dropbtn">Events</button>
+            <div class="dropdown-content">
+                <a href="event4.html">3rd Quarter Events</a>
+<a href="Noli.html"> Noli Me Tangere </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">ICT Lessons</button>
+            <div class="dropdown-content">
+                <a href="ICT4.html">Lessons & Outputs</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">AP Lessons</button>
+            <div class="dropdown-content">
+                <a href="AP4.html">Pambansang Kaunlaran</a>
+<a href="AP11.html">Gampanin ng Mamamayan sa Pag-Unlad ng Bansa</a>
+<a href="AP12.html">Sektor ng Agrikultura</a>
+<a href="AP13.html">Sektor ng Industriya</a>
+<a href="AP14.html">Sektor ng Paglilingkod</a>
+<a href="AP15.html">Sektor ng Impormal na Sektor</a>
+<a href="AP16.html">Panlabas na Sektor</a>
+            </div>
+        </div>
+    </div>
+
+</div> <div class="main-wrapper">
+<audio controls style="margin-top: 20px;">
+        <source src="mine.mp3" type="audio/mpeg">
+    </audio> <p class="no1"> Listen to music while reading ^^ </p>
+    <div class="content-box">
+        <div class="image-side">
+            <img src="image60.jpg" alt="AP">
+        </div>
+        <div class="text-side">
+            <h2> Ano ang impormal na sektor? <h2>
+            <p> <br> IMPORMAL NA SEKTOR <br><br>
+
+Sektor ng ekonomiya na walang pormal o salat sa mga dokumentong kailangan sa pagsasagawa ng gawaing pang-ekonomiya <br>
+Ang kita ng sektor na ito ay HINDI naisasama sa kabuuang Gross Domestic Product (GDP) ng bansa <br>
+Paraan ng mamamayan upang magkaroon ng kabuhayan/dagdag kita sa tuwing panahon ng pangangailangan <br>
+Ito ay nagdudulot rin ng pagkakalikha ng mga produkto at serbisyong tutugon sa ating mga pangangailangan <br>
+Kilala rin sa tawag na Underground Economy <br><br>
+
+
+HALIMBAWA NG MGA TAONG KABILANG SA SEKTOR NA ITO <br>
+
+Nagtitinda sa kalsada <br>
+Pedicab driver <br>
+Karpintero <br>
+Hindi rehistradong pampublikong sasakyan <br><br>
+
+KATANGIAN NG IMPORMAL NA SEKTOR <br><br>
+
+Hindi nakarehistro sa pamahalaan <br>
+Hindi nagbabayad ng buwis mula sa kinita <br>
+Walang legal at pormal na balangkas mula sa pamahalaan para sa pagnenegosyo <br><br>
+
+IBA’T IBANG ANYO NG IMPORMAL 
+NA SEKTOR <br><br>
+
+Mga gawaing maaaring isakatuparan lamang sa loob ng tahanan<br>
+Mga gawaing pansibiko, pagkakawanggawa, at panrelihiyon <br>
+Mga sari-sari stores, pagtitinda sa labas ng bahay o sidewalk, paglalako ng kalakal o serbisyo <br>
+Ilegal na gawain tulad ng pagnanakaw, pagbebenta ng ilegal na gamot, piracy, at prostitusyon <br><br>
+
+
+KAHALAGAHAN NG IMPORMAL NA SEKTOR<br><br>
+
+Sinasalo nito ang mga mamamayan na hindi makapasok bilang mga regular na empleyado sa isang kompanya.<br>
+Nagbibigay ng pagkakataon sa maraming Pilipino na makapaghanapbuhay<br>
+Nagsisilbing tagasalo ng mga mamamayang may mahigpit na pangangailangan<br>
+Malaki ang naitutulong sa mga konsyumer ang mga kalakal at serbisyong mula sa impormal na sektor dahil sa MURA nitong halaga<br>
+
+DAHILAN KUNG BAKIT PUMAPASOK SA IMPORMAL NA SEKTOR ANG MGA MAMAMAYAN<br><br>
+
+Makaligtas sa pagbabayad ng buwis sa pamahalaan<br>
+Makaiwas sa masyadong mahaba at masalimuot na proseso ng pakikipagtransaksyon sa pamahalaan (bureaucratic red tape)<br>
+Kawalan ng regulasyon mula sa pamahalaan na kung saan ang mga batas at programa ay hindi naitutupad nang maayos<br>
+Makapaghanapbuhay nang hindi nangangailangan  ng malaking kapital o puhunan<br>
+Malabanan ang matinding kahirapan<br><br>
+
+
+EPEKTO SA EKONOMIYA NG IMPORMAL NA SEKTOR<br><br>
+
+Pagbaba ng halaga ng nalilikom na buwis<br>
+Banta sa kapakanan ng mga mamimili<br>
+Paglaganap ng mga ilegal na gawain<br>
+
+ </p>
+        </div>
+    </div>
+
+    <div class="content-box">
+        <div class="image-side">
+            <img src="image61.jpg" alt="Tungkulin">
+        </div>
+        <div class="text-side">
+            <h2>Ano-ano ang mga batas?</h2>
+            <p> <br> MGA BATAS, PROGRAMA, AT PATAKARANG PANG-EKONOMIYA SA IMPORMAL NA SEKTOR <br><br>
+
+Social Reform and Poverty Alleviation Act of 1997 (R.A 8425)<br><br>
+
+Iahon sa kahirapan ang mga Pilipinong kabilang sa impormal na sektor<br>
+Upang maisakatuparan ang  mga  probisyon  ng  batas  na  ito  ay  itinatag  ang  National  Anti-Poverty Commission <br>
+
+
+Magna Carta of Women (R.A 9710)<br>
+
+Inaalis ang lahat ng uri ng diskriminasyon laban sa kababaihan<br><br>
+
+
+Philippine Labor Code (P.D 442)<br>
+
+Pangunahing batas ng bansa para sa mga manggagawa na itinatag noong Mayo 1, 1974<br>
+Technical  Education  and  Skills  Development  Act  of  1994 (R.A 7796)<br>
+
+Layuning palakasin ang pakikiisa ng iba't ibang sektor upang mapabuti ang kasanayan at kalidad ng yamang tao sa bansa<br><br>
+
+
+Social Security Act of 1997 (R.A 8282)<br>
+
+Nagtatakda ng tungkulin ng estado na paunlarin at pangalagaan ang seguridad at kagalingang panlipunan ng mga manggagawa<br><br>
+
+
+National Health Insurance Act of 1995 (R.A 7875)<br>
+
+Nagtatag ng Philippine Health Insurance Corporation (PhilHealth) upang matiyak na may maayos at sistematikong kaseguruhang pangkalusugan ang lahat ng Pilipino<br><br><br>
+
+
+
+
+
+MGA PROGRAMA PARA SA MAMAMAYAN<br><br>
+
+
+
+Dole Integrated Livelihood Program (DILP)<br><br>
+
+Nagbibigay ng pagsasanay at tulong pangkabuhayan para sa sariling hanapbuhay<br><br>
+
+
+Self-Employment Assistance Kaunlaran Program (SEA-K)<br><br>
+
+Tumutulong sa mahihirap na pamilya sa pagsasanay at pagsisimula ng negosyo<br><br>
+
+
+Integrated Services for Livelihood Advancement of the Fisherfolks (ISLA)<br><br>
+
+Nagbibigay ng suporta sa pamamagitan ng pagsasanay at pagkakaloob ng kagamitan upang mapaunlad ang kanilang hanapbuhay<br><br>
+
+
+Cash-For-Work Program (CWP)<br><br>
+
+Pansamantalang kita para sa nasalanta, kapalit ng trabahong pang-rehabilitasyon<br><br>
+
+
+Pantawid Pamilyang Pilipino Program (4Ps)<br><br>
+
+Tulong-pinansyal sa pinakamahihirap na Pilipino kapalit ng pagsunod sa mga kondisyong pangkalusugan at pang-edukasyon ng kanilang mga anak<br><br>
+
+</p>
+        </div>
+    </div>
+ </div>
+
+</body>
+</html>

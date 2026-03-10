@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3RD QUARTER E-PORTFOLIO</title>
+    <link rel="stylesheet" href="port4.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title"> 
+        <a href="index.html">3rd Quarter Home Page &#9829;</a> 
+    </p>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button class="dropbtn">Events</button>
+            <div class="dropdown-content">
+                <a href="event3.html">3rd Quarter Events</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">ICT Lessons</button>
+            <div class="dropdown-content">
+                <a href="ICT3.html">Lessons & Outputs</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
+
+<div class="main-wrapper">
+<audio controls style="margin-top: 20px;">
+        <source src="nobody.mp3" type="audio/mpeg">
+    </audio> <p class="no1"> Listen to music while reading ^^ </p>
+    <div class="item-container">
+        <input type="checkbox" id="check1" class="toggle-input">
+        <label for="check1" class="trigger-btn"> <img src="image11.png"> Lesson 1 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="image15.png"></div>
+            <div class="text-side"><h2>1st Lesson</h2><p> In this lesson, I refreshed my memory on the different typography properties such as font-family, font-size, and much more. I also got to learn about new properties such as font-weight. I applied them in real life as shown in the picture to the left! </p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check2" class="toggle-input">
+        <label for="check2" class="trigger-btn"> <img src="image12.png"> Lesson 2 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="image16.png"></div>
+            <div class="text-side"><h2>2nd Lesson</h2><p> In lesson 2, I further learned about the font properties. Such as font-indent, line-height, and background-color. I relearned my topics from Grade 8, and got to apply it in real life. </p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check3" class="toggle-input">
+        <label for="check3" class="trigger-btn"> <img src="image13.png"> Lesson 3 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="image17.png"></div>
+            <div class="text-side"><h2>3rd Lesson</h2><p> In this lesson, I got to learn more on how to customize an element's position and background! I learned the different values such as parent, fixed, absolute, and etc. I learned the float property and how an element can be adjusted left, right, middle, and more! And for background, I got to know more about how to add a background again. </p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check4" class="toggle-input">
+        <label for="check4" class="trigger-btn"> <img src="image14.png"> Lesson 4 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="image18.png"></div>
+            <div class="text-side"><h2>4th Lesson</h2><p>Here, I learned more about borders and how to make tables. I relearned border properties, such as color, margin, border shadows, and more. And for tables, I learned how to make columns and rows, as such in the example.</p></div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

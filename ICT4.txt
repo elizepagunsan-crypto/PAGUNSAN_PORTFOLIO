@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4TH QUARTER</title>
+    <link rel="stylesheet" href="port23.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title"> 
+        <a href="index.html">4th Quarter Homepage &#9829;</a> 
+    </p>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button class="dropbtn">Events</button>
+            <div class="dropdown-content">
+                <a href="event4.html">3rd Quarter Events</a>
+<a href="Noli.html"> Noli Me Tangere </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">ICT Lessons</button>
+            <div class="dropdown-content">
+                <a href="ICT4.html">Lessons & Outputs</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">AP Lessons</button>
+            <div class="dropdown-content">
+                <a href="AP4.html">Pambansang Kaunlaran</a>
+<a href="AP11.html">Gampanin ng Mamamayan sa Pag-Unlad ng Bansa</a>
+<a href="AP12.html">Sektor ng Agrikultura</a>
+<a href="AP13.html">Sektor ng Industriya</a>
+<a href="AP14.html">Sektor ng Paglilingkod</a>
+<a href="AP15.html">Sektor ng Impormal na Sektor</a>
+<a href="AP16.html">Panlabas na Sektor</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="main-wrapper">
+<audio controls style="margin-top: 20px;">
+        <source src="mine.mp3" type="audio/mpeg">
+    </audio> <p class="no1"> Listen to music while reading ^^ </p>
+    <div class="item-container">
+        <input type="checkbox" id="check1" class="toggle-input">
+        <label for="check1" class="trigger-btn"> <img src="image11.png"> Lesson 1 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="s1.png"></div>
+            <div class="text-side"><h2>1st Lesson</h2><p> For the 1st lesson this quarter, I learned all about the basics of javascript. Why it was created, who created it, and why it's so commonly used. I learned that when you use javascript, you can add interactivity in simple steps!</p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check2" class="toggle-input">
+        <label for="check2" class="trigger-btn"> <img src="image11.png"> Lesson 2 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="s2.png"></div>
+            <div class="text-side"><h2>2nd Lesson</h2><p> In lesson 2, I learned about the guidelines of javascript, what I should do and what I should not do during coding, as javascript is very sensitive in cases. I learned about where to put javascript code, as certain places mean different things, like pre-loading and etc. </p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check3" class="toggle-input">
+        <label for="check3" class="trigger-btn"> <img src="image11.png"> Lesson 3 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="s3.png"></div>
+            <div class="text-side"><h2>3rd Lesson</h2><p> For lesson 3, I learned the structure of javascript code. The different snippets and how javascript uses objects and methods to code. I also learned even more about its different characteristics like how it's client-side coding and more! </p></div>
+        </div>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="check4" class="toggle-input">
+        <label for="check4" class="trigger-btn"> <img src="image11.png"> Lesson 4 </label>
+        <div class="content-box">
+            <div class="image-side"><img src="s4.png"></div>
+            <div class="text-side"><h2>4th Lesson</h2><p> And finally for the last lesson, I learned the events of javascript and its event triggers. With a simple code, it can already do so much like disrupt the image from loading or vice versa! I learned how to code popup boxes, like alert boxes, prompt boxes, and etc. in a simple way! </p></div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

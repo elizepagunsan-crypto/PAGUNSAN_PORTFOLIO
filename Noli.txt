@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4TH QUARTER</title>
+    <link rel="stylesheet" href="port19.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title"> 
+        <a href="index.html">4th Quarter Homepage &#9829;</a> 
+    </p>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button class="dropbtn">Events</button>
+            <div class="dropdown-content">
+                <a href="event4.html">3rd Quarter Events</a>
+<a href="Noli.html"> Noli Me Tangere </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">ICT Lessons</button>
+            <div class="dropdown-content">
+                <a href="ICT4.html">Lessons & Outputs</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">AP Lessons</button>
+            <div class="dropdown-content">
+                <a href="AP4.html">Pambansang Kaunlaran</a>
+<a href="AP11.html">Gampanin ng Mamamayan sa Pag-Unlad ng Bansa</a>
+<a href="AP12.html">Sektor ng Agrikultura</a>
+<a href="AP13.html">Sektor ng Industriya</a>
+<a href="AP14.html">Sektor ng Paglilingkod</a>
+<a href="AP15.html">Sektor ng Impormal na Sektor</a>
+<a href="AP16.html">Panlabas na Sektor</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="main-wrapper">
+    <audio controls style="margin-top: 20px;">
+        <source src="strategy.mp3" type="audio/mpeg">
+    </audio> 
+    <p class="no1"> Listen to music while reading ^^ </p>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash1" class="toggle-input">
+        <label for="flash1" class="flashcard">
+            <div class="card-front">
+                <img src="image44.png" alt="Click Me">
+                <div class="click-hint">Click me! </div>
+            </div>
+            <div class="card-back">
+                <div class="text-side">
+                    <h2> Pick one of the other boxes to watch the Noli performance!</h2>
+                    <p> For 3 years, I've never experienced a full production play here at my time in LpSci. In grade 7, Ibong Adarna got cancelled. Florante and Laura was cancelled immediately in Grade 8, so imagine my excitement, anticipation, and fear for Grade 9. I wasn't that much familiar in Noli Me Tangere, I watched some episodes of the series, but I didn't know the main plotline all that well. I was props head for our Noli and one of the guardiyang sibil. It was hard making props within the time frame and limited resources, I'm forever thankful to my props team, Martin and Romi. I thank Zoe too for finding the materials, gathering the needed things while tackling RFOT. It was a stressful journey, with how little the space in Audi, yet how big the props and costumes were. During practices, I could see the vision of our lovely directors Maeur, Nina, and Viv, and it was starting to come to life. On the day of performance, everyone was shaking, it still felt like we were unprepared, yet we carried on. Even with technical difficulties, we carried on. Even with the limited space, we carried on. Each actor, props, and director did their part, and carried out a beautiful stageplay. As my first production to be part of, I would do it again, even with the struggles, as I got to learn how to be resourceful and creative with props. I was taught the history of our country, how strict the Spaniards were to locals. And I learned how much of an impact Noli Me Tangere did to young aspiring Filipinos, and how we fought for freedom. </p>
+                </div>
+            </div>
+        </label>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash2" class="toggle-input">
+        <label for="flash2" class="flashcard">
+            <div class="card-front">
+                <img src="image45.png" alt="Click">
+                <div class="click-hint">Click me!</div>
+            </div>
+            <div class="card-back">
+                <div class="text-side">
+                    <h2>Noli Me Tangere Bloopers (Click another box to watch bloopers) </h2>
+                    <p> Of course, a play isn't a play without bloopers and funny moments. I'm certain there were 0 days where we were complete as a class, which lead to multiple camera-worthy videos. Hope we make you laugh! </p>
+                </div>
+            </div>
+        </label>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash3" class="toggle-input">
+        <label for="flash3" class="flashcard">
+            <div class="card-front">
+                <img src="image46.png" alt="Click Me!">
+                <div class="click-hint">Click to watch!</div>
+            </div>
+            <div class="card-back">
+                <div class="video-side">
+                    <video width="100%" controls>
+                        <source src="Noli.mp4" type="video/mp4">
+                    </video>
+                    <h2>Noli!!</h2>
+                </div>
+            </div>
+        </label>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash4" class="toggle-input">
+        <label for="flash4" class="flashcard">
+            <div class="card-front">
+                <img src="image47.png" alt="Click Me">
+                <div class="click-hint">Click me!</div>
+            </div>
+            <div class="card-back">
+                <div class="video-side">
+                    <video width="100%" controls>
+                        <source src="bloop.mp4" type="video/mp4">
+                    </video>
+                    <h2>Bloopers!!</h2>
+                </div>
+            </div>
+        </label>
+    </div>
+</div>
+
+</body>
+</html>

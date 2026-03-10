@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3RD QUARTER</title>
+    <link rel="stylesheet" href="port20.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title"> 
+        <a href="index.html">4th Quarter Homepage &#9829;</a> 
+    </p>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button class="dropbtn">Events</button>
+            <div class="dropdown-content">
+                <a href="event4.html">3rd Quarter Events</a>
+<a href="Noli.html"> Noli Me Tangere </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">ICT Lessons</button>
+            <div class="dropdown-content">
+                <a href="ICT4.html">Lessons & Outputs</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">AP Lessons</button>
+            <div class="dropdown-content">
+                <a href="AP4.html">Pambansang Kaunlaran</a>
+<a href="AP11.html">Gampanin ng Mamamayan sa Pag-Unlad ng Bansa</a>
+<a href="AP12.html">Sektor ng Agrikultura</a>
+<a href="AP13.html">Sektor ng Industriya</a>
+<a href="AP14.html">Sektor ng Paglilingkod</a>
+<a href="AP15.html">Sektor ng Impormal na Sektor</a>
+<a href="AP16.html">Panlabas na Sektor</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="main-wrapper">
+    <audio controls style="margin-top: 20px;">
+        <source src="yours.mp3" type="audio/mpeg">
+    </audio> 
+    <p class="no1"> Listen to music while reading ^^ </p>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash1" class="toggle-input">
+        <label for="flash1" class="flashcard">
+            <div class="card-front">
+                <img src="image54.png" alt="Click Me">
+                <div class="click-hint">Click me! </div>
+            </div>
+   <div class="card-back">
+    <div class="text-side">
+        <h2>Ano ang Agrikultura at ang mga Gampanin nito?</h2>
+        
+        <p><b>AGRIKULTURA</b></p>
+        <ul>
+            <li>Isang agham at sining na may kinalaman sa pagpaparami ng mga hayop at mga tanim o halaman.</li>
+            <li>Kaugnayan sa lahat ng gawain na sangkot ang mga hayop at halaman.</li>
+            <li><i>AGER</i> = Lupa; <i>CULTURA</i> = Paglilinang</li>
+        </ul>
+
+        <p><b>MGA GAWAIN AT GAMPANIN:</b></p>
+        <ul>
+            <li><b>Pagsasaka:</b> Palay, mais, niyog, atbp. Kabuuang kita: ₱797.731 bilyon.</li>
+            <li><b>Panghahayupan:</b> Pag-aalaga para sa karne, hibla, gatas, at itlog.</li>
+            <li><b>Pangingisda:</b> Komersiyal, munisipal, at aquaculture.</li>
+            <li><b>Paggugubat:</b> Pinagkukunan ng plywood, tabla, rattan, at nipa.</li>
+        </ul>
+
+        <p><b>KAHALAGAHAN:</b></p>
+        <ul>
+            <li>Pinagmumulan ng pagkain.</li>
+            <li>Hilaw na materyales para sa produkto.</li>
+            <li>Nagkakaloob ng trabaho at dolyar sa bansa.</li>
+        </ul>
+    </div>
+</div>                </div>
+            </div>
+        </label>
+    </div>
+
+    <div class="item-container">
+        <input type="checkbox" id="flash2" class="toggle-input">
+        <label for="flash2" class="flashcard">
+            <div class="card-front">
+                <img src="image55.png" alt="Click">
+                <div class="click-hint">Click me!</div>
+            </div>
+
+            <div class="card-back">
+                <div class="text-side">
+                    <h2> Ano-ano ang mga suliranin at batas ng sektor ng agrikultura? </h2>
+                    <p> <b> SULIRANIN NG AGRIKULTURA: </b>
+
+<ul> PAGSASAKA: </ul>
+<li>pagliit ng lupang sakahan </li>
+<li>paggamit ng makabagong teknolohiya </li> 
+<li>kakulangan ng mga pasilidad at imprastraktura sa kabukiran </li>
+<li>akulangan ng suporta mula sa iba pang sektor </li>
+<li>pagbibigay prayoridad sa sektor ng industriya, pagdagsa ng dayuhang kalakal </li>
+<li>Climate Change </li>
+<ul>PANGINGISDA:
+<li>mapanirang operasyon ng malalaking komersiyal na mangingisda </li>
+<li>epekto ng polusyon sa pangisdaan </li>
+<li>lumalaking populasyon ng bansa </li>
+<li>kahirapan sa hanay ng mga mangingisda </li>
+<ul>PAGHAHAYUPAN:</ul>
+<li>pagkakaroon ng mga peste sa alagang hayop tulad ng baboy at manok </li>
+<ul>PAGGUGUBAT:</ul>
+<li>mabilis na pagkaubos ng mga likas na yaman </li>
+<ul>MGA PATAKARAN AT PROGRAMA HINGGIL SA PAGPAPAUNLAD SA SEKTOR NG AGRIKULTURA:
+PANAHON NA HINDI PA NASASAKOP ANG PILIPINAS</ul>
+<li>Ang mga sinaunang Pilipino ay nakakapag-may-ari ng lupa sa pamamagitan ng pagiging unang nagtayo ng bahay. </li>
+<li>Wala pang titulo/rights noon.</li>
+<li>Ang pinagbabasehan lamang ay salita ng bawat isa.</li>
+
+<ul>PANAHON NG KASTILA </ul>
+<li>Encomienda System: lupang gantimpala sa matapat na naglilingkod sa hari ng Espanya at mga taong tumulong sa pananakop sa Pilipinas.</li>
+
+<ul>PANAHON NG AMERIKANO 
+Binili ng Amerika ang 160,000 hectares ng lupa mula sa mga prayle para sa mga magsasaka. </ul>
+<li>Land Registration Act ng 1902:
+Nagkaroon ng mga titulo dahil dito. </li>
+<li>Ito ay sistemang Torrens, kung saan ang mga titulo ng lupa ay ipinatalang lahat. 
+Public Land Act ng 1902: Pamamahagi ng mga lupaing pampubliko sa mga pamilya na nagbubungkal ng lupa </li>
+
+<ul>PANAHON NG KASARINLAN </ul>
+<li>Batas Republika Blg. 1160 ng 1954: Nagtatag sa National Resettlement and Rehabilitation Administration (NARRA) </li>
+
+<ul>Batas Republika Blg. 1190 ng 1954: </ul>
+<li> Bilang proteksyon laban sa mapang-abuso na may-ari ng lupa sa mga manggagawa. </li>
+<li>Ito ay laban sa mga Absentee Landlord </li>
+
+<ul>Agricultural Land Reform Code of 1963: </ul>
+<li> Nagpalaya sa mabigat na trabaho ng magsasaka mula sa kanilang pagkaalipin sa utang at kahirapan.
+Nilagdaan ni Diosdado Macapagal noong Agosto 8, 1963 </li>
+
+<li>Atas ng Pangulo Blg. 2 ng 1972: Isailalim sa reporma sa lupa ang buong Pilipinas noong panahon ni Pangulong Marcos </li>
+
+
+<li>Atas ng Pangulo Blg. 27: Bibilhin ng pamahalaan ang mga lupang sakahan na taniman ng palay/mais na lampas sa 7 ektaryang limitasyon at ipamamahagi ito sa mga magsasakang walang lupa. </li>
+
+<li>Batas Republika Blg. 6657 ng 1988:  
+“Comprehensive Agrarian Reform Law (CARL)” na inaprubahan ni Corazon Aquino noong Hunyo 10, 1988
+Kabilang dito ang lahat ng publiko at pribadong lupang agrikultural at nakapaloob sa Comprehensive Agrarian Reform Program (CARP)
+Ipinamamahagi ang lahat ng lupang agrikultural anuman ang tanim nito sa mga walang lupang magsasaka.
+Matatapos sana sa 10 taon ngunit ginagawa pa rin ang batas hanggang ngayon. </li>
+
+<ul>BATAS REPUBLIKA BLG. 6657 NG 1988 </ul>
+HINDI SAKOP NG CARP ANG:
+<li>Liwasan at parke </li>
+<li>Mga gubat at reforestation area </li>
+<li>Mga palaisdaan </li>
+<li>Tanggulang pambansa </li>
+<li>Paaralan </li>
+<li>Simbahan </li>
+<li>Sementeryo </li>
+<li>Templyo </li>
+<li>Watershed, atbp. </li>
+
+
+<ul>MGA NAISAKATUPARAN UPANG MAIANGAT ANG KALAGAYANG PANGKABUHAYAN NG MGA MAGSASAKA (CARP, 2003) </ul>
+<li>Pagtatayo ng bahay-ugnayan (bagsakan) para sa mga magsasaka upang masigurong mayroon suportang maibigay sa kanila.</li>
+<li>Pagtatayo ng gulayan para sa mga magsasaka. </li>
+<li>Pagsisiguro na ang mga anak ng mga magsasaka ay makapag-aral kaya itinayo ang Pangulong Diosdado Macapagal Agrarian Reform Scholarship Program </li>
+<li>Kalahi agrarian reform zones </li>
+
+<ul>PANGINGISDA </ul>
+
+ <li>Pagtatayo ng mga daungan <br> </li>
+<li>Philippine Fisheries Code of 1998: Paglilimita ng pamahalaan at naglalayon ng wastong paggamit sa yamang pangisdaan </li> 
+<li>Fishery Research: </li>
+<li>Isang programa ng pamahalaan na isinasagawa upang masiguro ang pagpaparami at pagpapayaman sa mga yamang-tubig  </li>
+
+<ul>PAGTOTROSO <br> </ul>
+<li>Community Livelihood Assistance Program (CLASP): Paglilipat ng teknolohiya/pagtuturo sa mga mamamayan ng wastong paglinang sa mga likas na yaman. </li> 
+<li>National Integrated Protected Areas System (NIPAS): Maingatan at protektahan ang kagubatan </li>
+<li>Sustainable Forest Management Strategy: Upang matakdaan ang permanente at sukat ng kagubatan </li>
+
+<ul>LANDBANK OF THE PHILIPPINES </ul>
+
+<li>Upang magkaroon ng kaagapay ang mga magsasaka sa pagpapaunlad ng kanilang kabuhayan.</li>
+
+
+<li>SANGAY NG PAMAHALAAN NA TUMUTULONG SA SEKTOR NG AGRIKULTURA </li>
+<li>Department of Agriculture (DA): Gumagabay sa mga magsasaka ukol sa makabagong teknolohiya at wastong paraan ng pagtatanim. </li>
+<li>Bureau of Fisheries and Aquatic Resources (BFAR): Sinisikap na paunlarin ang larangan ng pangingisda. </li>
+<li>Bureau of Animal Industry (BAI): Nangangasiwa sa larangan ng paghahayupan. </li>
+<li>Ecosystem Research and Development Bureau (ERDB): Nagsasagawa ng pananaliksik sa ecosystem upang magbigay ng siyentipikong batayan sa pangangalaga ng <li>kapaligiran at yamang gubat.</li>
+ </p>
+                </div>
+            </div>
+        </label>
+    </div>
+</div>
+</body>
+</html>

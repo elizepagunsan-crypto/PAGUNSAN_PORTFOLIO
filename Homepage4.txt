@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4TH QUARTER</title>
+    <link rel="stylesheet" href="port17.css"> 
+</head>
+<body>
+
+<div class="navbar">
+<p class="navbar-title"> <a href="index.html"> 4th Quarter Homepage &#9829; </a> </p>
+<div class="menu-container">
+
+<div class="dropdown">
+<button class="dropbtn"> Events </button>
+<div class="dropdown-content">
+<a href="event4.html"> 4th Quarter Events </a>
+<a href="Noli.html"> Noli Me Tangere </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> ICT Lessons </button>
+<div class="dropdown-content">
+<a href="ICT4.html"> Lessons & Outputs </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> AP Lessons </button>
+<div class="dropdown-content">
+<a href="AP4.html">Pambansang Kaunlaran</a>
+<a href="AP11.html">Gampanin ng Mamamayan sa Pag-Unlad ng Bansa</a>
+<a href="AP12.html">Sektor ng Agrikultura</a>
+<a href="AP13.html">Sektor ng Industriya</a>
+<a href="AP14.html">Sektor ng Paglilingkod</a>
+<a href="AP15.html">Sektor ng Impormal na Sektor</a>
+<a href="AP16.html">Panlabas na Sektor</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div> <div class="main-wrapper">
+    <div class="content-box">
+        <div class="image-side">
+            <img src="image38.png" alt="Me">
+        </div>
+
+        <div class="text-side">
+            <h2> Welcome to my 4th Quarter Page !</h2>
+            <p> Welcome welcome ! This is the 4th and final homepage for my portfolio ^^ You can check the different events in 4th quarter in the events tab, the ICT lessons we learned, our Noli Mi Tangere play also in the events tab, and the lessons taught by Sir Calimbas in the AP Lessons tab. Enjoy reading! ^^ </p>
+            <audio controls>
+                <source src="why.mp3" type="audio/mpeg">
+                            </audio>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

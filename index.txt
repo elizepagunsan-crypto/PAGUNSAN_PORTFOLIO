@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAGUNSAN_E-PORTFOLIO</title>
+    <link rel="stylesheet" href="port1.css"> 
+</head>
+<body>
+
+<div class="navbar">
+    <p class="navbar-title">
+        <a href="index.html">My 1st-4th Quarter E-Portfolio &#9829;</a>
+    </p>
+        <div class="dropdown">
+            <button class="dropbtn">1st and 2nd Quarter</button>
+            <div class="dropdown-content">
+                <a href="Homepage2.html">1st and 2nd Qtr Homepage</a>
+                <a href="event2.html">Events</a>
+                <a href="ICT2.html">ICT Lessons</a>
+                <a href="AP5.html">AP Lessons</a>
+<a href="Myself1.html"> Myself </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">3rd Quarter</button>
+            <div class="dropdown-content">
+                <a href="Homepage3.html">3rd Qtr Homepage</a>
+                <a href="event3.html">Events</a>
+                <a href="ICT3.html">ICT Lessons</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">4th Quarter</button>
+            <div class="dropdown-content">
+                <a href="Homepage4.html">4th Qtr Homepage</a>
+                <a href="event4.html">Events</a>
+                <a href="ICT4.html">ICT Lessons</a>
+                <a href="AP4.html">AP Lessons</a>
+            </div>
+        </div>
+    </div>
+</div> <div class="main-wrapper">
+    <div class="content-box">
+        <div class="image-side">
+            <img src="image1.png" alt="My Favorite Image">
+        </div>
+
+        <div class="text-side">
+            <h2>My Portfolio &lt;3</h2>
+            <p>WELCOME TO MY WEBPAGE! I am Lorraine Gilia A. Pagunsan from 9-Fairness. Here in my webpage, you can see my journey in Grade with my friends, teachers, and family. If you wish to get to know me, there's a "Myself" page in my 1st Quarter part, to get to know the basics ^^ You may binge through the different pages, if you need to go back and visit more click the text at the left ^^ It will redirect you here to this homepage. Without further ado, enjoy reading! </p>
+            <audio controls>
+                <source src="everytime.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
