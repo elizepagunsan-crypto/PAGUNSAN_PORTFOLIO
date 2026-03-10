@@ -17,7 +17,7 @@
 <div class="dropdown">
 <button class="dropbtn"> Browser Outputs </button>
 <div class="dropdown-content">
-<a href="Event2.html"> Events </a>
+<a href="event2.html"> Events </a>
 <a href="ICT2.html"> Lesson Outputs </a>
 </div>
 </div>
