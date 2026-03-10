@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  padding: 0;
+ background-image: url("image3.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family:Garamond;
+}
+
+.navbar {
+  background-color: #F0FFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  border-bottom: 2px solid white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  box-sizing: border-box; 
+}
+
+.navbar-title a {
+  color: #191970;
+  font-size: 25px;
+  text-decoration: none;
+  margin: 0;
+}
+
+.dropdown {
+  display: inline-block; 
+  position: relative;
+  margin-right: 10px;
+}
+
+.dropbtn {
+  background-color: #B0E0E6; 
+  color: #191970; 
+  padding: 12px 20px; 
+  font-size: 20px; 
+  border: none;
+  font-family:Garamond;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.dropdown-content {
+  display: none; 
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #87CEEB; 
+  width: 160px;
+  z-index: 10;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  background-color: #AFEEEE;
+  color: #191970;
+  text-decoration: none;
+  display: block; 
+  font-size: 18px;
+  font-family:Garamond;
+  padding: 10px;
+}
+
+.dropdown-content a:hover {
+  background-color: #D8BFD8;
+  color: #663399;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #D8BFD8;
+
+}
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 80px; 
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.content-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color:#D8BFD8;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  max-width: 800px;
+  margin: 20px;
+}
+
+.image-side {
+  flex: 1;
+}
+
+.image-side img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.text-side {
+  flex: 1;
+  padding-left: 30px;
+  color:#663399;
+}
+
+@media (max-width: 768px) {
+  .content-box {
+    flex-direction: column;
+    text-align: center;
+  }
+  .text-side {
+    padding-left: 0;
+    padding-top: 20px;
+  }
+}
+
+h2 {
+color:#4B0082;
+font-family:Garamond;
+}
+
+p {
+color:#4B0082;
+font-family:Garamond;
+text-align: justify;
+}
